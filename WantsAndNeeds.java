@@ -11,6 +11,7 @@ import java.util.Scanner;
 public class WantsAndNeeds {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
+     // close scanner to avoid memory leaks
         
         int afterHours, grossPay, hours, payRate, netPay, deduction;
         String slipDate, familyName, givenName, rateOfPay, hoursWorked, taxCode, charityDonation;
@@ -63,8 +64,8 @@ public class WantsAndNeeds {
             afterHours = 0;
         
         /* Calculates gross pay, sets up net pay and deductions */
-        grossPay = payRate * (hours + 2 * afterHours);
-        netPay = grossPay;
+        grossPay = payRate * (hours + 2 * afterHours);  //If hours are >40 then the employee is being paid regular pay on top of their 2x 
+        netPay = grossPay;                              // overtime pay resulting in overtime being paid 3x regular pay instead of 2x.
         deduction = 0;
 
         /* Pay Slip */
