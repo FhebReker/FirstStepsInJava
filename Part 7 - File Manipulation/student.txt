@@ -1,0 +1,202 @@
+
+All topics
+Course Textbook
+Course Textbook
+Material
+Link to An Intro to Computer Science Using Java
+Edited Nov 17, 2022
+Material
+Online Development Environments/Compilers
+Edited Sep 18, 2022
+Assignments
+Assignments
+Completed Assignment
+ISP - Final Project
+Due Jan 26, 2023, 11:59 PM
+Completed Assignment
+8b. Array and I/O Assignment
+Due Dec 20, 2022, 11:59 PM
+Posted Dec 13, 2022 (Edited Dec 15, 2022)
+Turned in late
+Please copy your code into the Google Doc.
+
+Also, please attach your .java file(s) to the Classroom Assignment or attach a link to your code in repl.it.
+
+7b. Array-Input-Output Assignment
+Google Docs
+
+student.txt
+Text
+Your work
+
+Fardin Abbassi - Please copy your code here
+Google Docs
+Completed Assignment
+8a. Practical Assignment - Array Manipulation Method Creation
+Due Dec 13, 2022, 11:59 PM
+Assignment
+7b. Swing Assignment - Convert a program
+Due Dec 5, 2022, 11:59 PM
+Completed Assignment
+7a. Swing Assignment - Draw a house
+Due Dec 1, 2022, 11:59 PM
+Completed Assignment
+6. Object-Oriented Program - Monster Battle
+Due Nov 21, 2022, 11:59 PM
+Completed Assignment
+5. Methods - Guessing and Pig Games
+Due Nov 9, 2022, 11:59 PM
+Completed Assignment
+4b. Loops-Calculator and Word Search and Count Assignment
+Due Oct 31, 2022, 11:59 PM
+Completed Assignment
+4a. Loops - Little Johnny's Rabbits Assignment
+Due Oct 25, 2022, 11:59 PM
+Completed Assignment
+3. If and Case Statement Assignment
+Due Oct 12, 2022, 11:59 PM
+Completed Assignment
+2. User Input and String Manipulation Assignment
+Due Oct 4, 2022, 11:59 PM
+Completed Assignment
+1. Variables and Expressions
+Due Sep 26, 2022, 11:59 PM
+Completed Assignment
+Problem-solving model assignment
+Due Sep 15, 2022, 11:59 PM
+Exercises and Practice
+Exercises and Practice
+Material
+Course Review for the Final Exam
+Posted Jan 23, 2023
+Assignment
+Exploring Array Concepts Worksheet
+Due Dec 11, 2022, 11:59 PM
+Assignment
+Array Notes and Exercises 1-4
+Due Dec 8, 2022, 11:59 PM
+Material
+Review for Test #5 - Java Swing GUIs
+Posted Dec 1, 2022
+Completed Assignment
+Investigating Nuances of Loops
+No due date
+Material
+Review for Test #2 - String and if statement
+Posted Oct 11, 2022
+Completed Assignment
+If statement Review Worksheet
+Due Oct 7, 2022, 11:59 PM
+Completed Assignment
+Textbook Exercises for Chapter 3
+Due Oct 7, 2022, 11:59 PM
+Completed Assignment
+Review for the Unit 1 Test
+No due date
+Completed Assignment
+Textbook Exercises for Chapters 1 and 2
+No due date
+Teacher Presentations and Notes
+Teacher Presentations and Notes
+Material
+Arrays and Reading from and Writing to Files
+Edited Dec 15, 2022
+Material
+Graphics Intro Slideshow and Tetris Game Code
+Posted Nov 24, 2022
+Material
+Method presentation
+Posted Oct 30, 2022
+Material
+Loop presentation
+Posted Oct 14, 2022
+Material
+if statement presentations
+Posted Oct 4, 2022
+Material
+Java - String and reading files or user input
+Edited Sep 27, 2022
+Material
+Comments, Arithmetic and Type Conversion in Java - presentations
+Edited Sep 27, 2022
+Material
+Intro to Java, variables, formatting numeric output, and common errors
+Edited Sep 18, 2022
+Material
+Flowchart Presentation
+Edited Sep 15, 2022
+Material
+Problem-solving in Computer Science - presentation
+Posted Sep 15, 2022
+Day 1
+Day 1
+Completed Assignment
+Student Information Sheet
+Due Sep 14, 2022, 11:59 PM
+Material
+Course Outline
+Posted Sep 8, 2022
+55.6
+Scholtz
+85.6
+Brown
+74.9
+Alawi
+45.2
+Weis
+68.0
+Baird
+55
+Baynard
+68.5
+Mills
+65.1
+Gibb
+80.7
+Grovner
+87.6
+Weaver
+74.8
+Kennedy
+83.5
+Landry
+71.3
+Smith
+22.7
+Tillar
+98.7
+Knott
+45.8
+Camper
+11
+Loafer
+99.1
+Brown
+66.6
+Devilso
+60
+Averson
+75
+McKay
+90.1
+Potter
+88.2
+Cayde
+76.4
+Grin
+42.1
+Simpson
+71.2
+Kilian
+52.9
+Harley
+69.5
+Halfwa
+77.5
+Simba
+67.2
+Hichet
+10
+Dednite
+99.5
+Smarty
